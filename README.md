@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rOwe08
-- 👀 I’m interested in GameDev
+- 👀 I’m Software and Game Developer
 - 🌱 I’m currently learning Unity C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Write me an email or on LinkedIn to get in touch with me...
 
 <!---
 rOwe08/rOwe08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
