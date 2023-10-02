@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rOwe08
 - 👀 I’m Software and Game Developer
-- 🌱 I’m currently learning C++, Godot
+- 🌱 I’m currently learning C++, Godot, Unreal Engine 5, C#, Unity
 - 📫 Write me an email or on LinkedIn to get in touch with me...
 
 <!---
