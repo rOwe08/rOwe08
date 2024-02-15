@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rOwe08
-- 👀 I’m Software and Game Developer
+- 👀 I’m Game Developer
 - 🌱 I’m currently learning following:
 -     Engines: Godot, Unreal Engine 5, Unity
 -     Languages: C++, C#, Python
